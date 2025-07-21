@@ -17,6 +17,7 @@ public class calculator {
         System.out.println("Multiplication:"+ (a*b));
         System.out.println("Division:"+ (a/b));
         System.out.println("modulus:"+ (a%b));
+         System.out.println("squre:"+ (a*a));
 
     }
 }
