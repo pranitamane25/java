@@ -19,7 +19,5 @@ public class Positive_Negative {
         else{
             System.out.println("number is zero");
         }
-        
-
     }
 }
